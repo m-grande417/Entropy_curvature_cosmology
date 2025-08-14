@@ -90,3 +90,4 @@ If you use ECC in your research, please cite:
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 ---
+<img width="3510" height="2490" alt="image" src="https://github.com/user-attachments/assets/1e6962ae-05ca-45d8-a61f-3f5a1cf50da3" />
