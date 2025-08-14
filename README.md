@@ -1,3 +1,4 @@
+<img width="1800" height="1800" alt="0D89EE47-560A-4112-A2CF-50EA5831EE6B" src="https://github.com/user-attachments/assets/768092bd-dca2-49f1-a0b8-e27ca676046f" />
 # Entropy_curvature_cosmology
 Thermodynamic field–driven cosmology replacing ΛCDM expansion with an entropy–curvature law, predicting testable large-scale structure, BAO, and CMB signatures.
 # Entropy–Curvature Cosmology (ECC)
